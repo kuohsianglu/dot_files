@@ -1,2 +1,10 @@
 # dot_files
-Dot files for vim, tmux ...etc
+Dot files for nvim, tmux ...etc
+
+## NVIM
+Config location: ~/.config/nvim/
+
+* Install plugin
+```
+:PlugInstall
+```
